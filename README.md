@@ -1,6 +1,11 @@
 # Algorithms
 Algorithms project
 
+# SEE Esercizi.pdf
+
+
+
+
 Laboratorio per il corso di Algoritmi e Strutture Dati
 Nel seguito verranno descritti i tre esercizi da consegnare al fine di potere superare la prova di laboratorio per il corso di Algoritmi e Strutture Dati.
 Durante la scrittura del codice è richiesto di usare in modo appropriato il sistema di versioning Git. Questa richiesta implica quanto segue:
